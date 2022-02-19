@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body-twitter {
+    display: flex;
+}
+
+.img-twitter {
+    width: 500px;
+    height: 100%;
+}
+.right-twitter {
+    padding-left: 30px;
+}
+
+.twitter-logo {
+    padding-top: 30px;
+    width: 42px;
+    height: 39px;
+}
+
+.titulo-um {
+    padding-top: 60px;
+    font-size: 73px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    overflow-wrap: break-word;
+}
+
+.titulo-dois {
+    padding-top: 50px;
+    font-size: 37px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+.botoes-superiores {
+    background-size: 400px;
+    display: block;
+    white-space: normal;
+    padding-top: 60px;
+    align-content: center;
+}
+
+.botão-um {
+    font-size: medium;
+    font-family: arial;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    border: 1px solid rgb(201, 201, 201);
+}
+
+.OU {
+    font-family: arial;
+    padding-top: 10px;
+    padding-left: 135px;
+    padding-bottom: 10px;
+}
+
+.botão-dois {
+    font-size: medium;
+    font-family: arial;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(52, 164, 255);
+    display: block;
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    border: 1px solid rgb(201, 201, 201);
+}
+
+.frase-inferior {
+    white-space: pre-line;
+    padding-top: 4px;
+    font-size: 11px;
+    color:rgb(104, 104, 104) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    color: rgb(52, 164, 255);
+    text-decoration: none;
+}
+
+.titulo-tres {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: arial;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.botão-tres {
+    color: rgb(52, 164, 255);
+    font-size: medium;
+    font-family: arial;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    border: 1px solid rgb(201, 201, 201);
+}
